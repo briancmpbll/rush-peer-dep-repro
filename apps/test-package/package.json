@@ -1,0 +1,13 @@
+{
+  "name": "test-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "~5.0.0",
+    "babel-core": "~6.26.3",
+    "babel-loader": "^7.1.5",
+    "webpack": "~3.10.0"
+  }
+}
